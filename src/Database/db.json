@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "shoni",
+      "username": "dancer",
+      "email": "shoni@gmal.com",
+      "phone": "25478965412",
+      "id": 2
+    },
+    {
+      "name": "mohit",
+      "username": "rockstar ",
+      "email": "rock@gmail.com",
+      "phone": "2587412589",
+      "id": 3
+    },
+    {
+      "name": "mukul sharma",
+      "username": "hitman",
+      "email": "rohitsharma@gmail.com",
+      "phone": "1254789652",
+      "id": 4
+    },
+    {
+      "name": "Richa",
+      "username": "RichaSharma",
+      "email": "richa@gmail.com",
+      "phone": "547896321",
+      "id": 5
+    },
+    {
+      "name": "Raghav",
+      "username": "raghavsharma",
+      "email": "raghva@gmail.com",
+      "phone": "22222222",
+      "id": 6
+    }
+  ]
+}
