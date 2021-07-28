@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.a617e044.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.b2050dc2.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.b2050dc2.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.eb310d54.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.eb310d54.js.map",
+    "static/js/2.5b234f72.chunk.js": "/reactlivewebsite/static/js/2.5b234f72.chunk.js",
+    "static/js/2.5b234f72.chunk.js.map": "/reactlivewebsite/static/js/2.5b234f72.chunk.js.map",
+    "static/js/3.857131dd.chunk.js": "/reactlivewebsite/static/js/3.857131dd.chunk.js",
+    "static/js/3.857131dd.chunk.js.map": "/reactlivewebsite/static/js/3.857131dd.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/reactlivewebsite/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5b234f72.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.5b234f72.chunk.js.LICENSE.txt",
+    "static/media/gym1.593fa7d2.jpg": "/reactlivewebsite/static/media/gym1.593fa7d2.jpg",
+    "static/media/gym2.8e06370e.jpg": "/reactlivewebsite/static/media/gym2.8e06370e.jpg",
+    "static/media/oops.e01443a8.jpg": "/reactlivewebsite/static/media/oops.e01443a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb310d54.js",
+    "static/js/2.5b234f72.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b2050dc2.chunk.js"
+  ]
+}
